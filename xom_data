@@ -1,0 +1,43 @@
+XOM stock 
+
+Summary Statistics - ADF Test For Stationarity
+
+P Value is high. Consider Differencing: 0.08617521818764723
+
+
+
+
+[0.00043477280996739864, 0.5991600751876831]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    834.640000
+Predicted     823.795398
+
+
+
+
+[0.0004172354529146105, 0.5969013571739197]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    834.640000
+Predicted     829.880795
+
+
+
+
+[0.0004294905229471624, 0.6022396087646484]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    834.640000
+Predicted     823.392044
+
+
+
+
+[0.00043522799387574196, 0.6085922122001648]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    834.64000
+Predicted     839.41801
+dtype: float64
+

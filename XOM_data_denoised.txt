@@ -1,0 +1,45 @@
+1/19 [>.............................] - ETA: 0s - loss: 8.2406e-04 - RRSE: 0.4634
+17/19 [=========================>....] - ETA: 0s - loss: 2.2054e-04 - RRSE: 0.4263
+19/19 [==============================] - 0s 3ms/step - loss: 2.0652e-04 - RRSE: 0.4247
+[0.0002065160369966179, 0.4246504306793213]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    833.693920
+Predicted     842.510208
+
+
+
+
+1/19 [>.............................] - ETA: 0s - loss: 7.2486e-04 - RRSE: 0.4398
+18/19 [===========================>..] - ETA: 0s - loss: 1.7008e-04 - RRSE: 0.3760
+19/19 [==============================] - 0s 3ms/step - loss: 1.6688e-04 - RRSE: 0.3794
+[0.00016688030154909939, 0.37941303849220276]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    833.69392
+Predicted     838.87122
+
+
+
+1/19 [>.............................] - ETA: 0s - loss: 8.3945e-04 - RRSE: 0.4720
+19/19 [==============================] - 0s 1ms/step - loss: 1.9625e-04 - RRSE: 0.4124
+[0.00019624875858426094, 0.4123653471469879]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    833.693920
+Predicted     834.188121
+
+
+
+
+
+1/19 [>.............................] - ETA: 0s - loss: 6.3589e-04 - RRSE: 0.4120
+ 9/19 [=============>................] - ETA: 0s - loss: 2.3738e-04 - RRSE: 0.3437
+18/19 [===========================>..] - ETA: 0s - loss: 1.5308e-04 - RRSE: 0.3562
+19/19 [==============================] - 0s 6ms/step - loss: 1.5043e-04 - RRSE: 0.3604
+[0.00015042700397316366, 0.36041244864463806]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    833.693920
+Predicted     836.379619
+dtype: float64

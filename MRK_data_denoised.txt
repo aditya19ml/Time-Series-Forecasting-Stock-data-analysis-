@@ -1,0 +1,43 @@
+ 1/19 [>.............................] - ETA: 0s - loss: 3.9625e-04 - RRSE: 0.2891
+14/19 [=====================>........] - ETA: 0s - loss: 1.8770e-04 - RRSE: 0.4682
+19/19 [==============================] - 0s 4ms/step - loss: 1.9458e-04 - RRSE: 0.4657
+[0.0001945803960552439, 0.4656504690647125]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    562.934715
+Predicted     566.882166
+dtype: float64
+
+
+
+
+ 1/19 [>.............................] - ETA: 0s - loss: 3.0785e-04 - RRSE: 0.2555
+12/19 [=================>............] - ETA: 0s - loss: 1.4964e-04 - RRSE: 0.3995
+19/19 [==============================] - 0s 5ms/step - loss: 1.2858e-04 - RRSE: 0.3826
+[0.00012858439004048705, 0.38258305191993713]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    562.934715
+Predicted     570.452764
+dtype: float64
+
+
+
+
+ 1/19 [>.............................] - ETA: 0s - loss: 3.4675e-04 - RRSE: 0.2709
+19/19 [==============================] - 0s 2ms/step - loss: 1.4118e-04 - RRSE: 0.3996
+[0.00014118326362222433, 0.3995581567287445]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    562.934715
+Predicted     575.181780
+dtype: float64
+
+
+
+[0.00011197591084055603, 0.35696905851364136]
+See Plot for predicted vs. actuals
+Validation Vs. Predicted
+Validation    562.934715
+Predicted     575.786449
+dtype: float64
